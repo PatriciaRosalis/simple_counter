@@ -1,0 +1,22 @@
+.container {
+  margin: auto;
+  height: 50px;
+  text-align: center;
+}
+
+button {
+  border: none;
+  background-color: lightblue;
+  font-size: 52px;
+  color: white;
+}
+
+span {
+  font-size: 52px;
+  margin: 25px;
+}
+
+h2 {
+  font-size: 60PX;
+  text-align: center;
+}
